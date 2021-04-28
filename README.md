@@ -32,3 +32,17 @@ selanjutnya saya akan membuat form pada javascript untuk diinput di browsernya
 ini merupakan hasil dari tampilan membuat form
 ![lab5 hasil4](https://user-images.githubusercontent.com/57024231/116341332-e6c8f100-a80a-11eb-820d-cfff37a1b455.png)
 
+lanjut menambahkan warna dengan mengklik pada tampilan brosernya
+![lab5 java5](https://user-images.githubusercontent.com/57024231/116341924-f7c63200-a80b-11eb-85c4-7d4827f78216.png)
+
+ini adalah hasil setelah mengubah warna pada tampilan browser
+![lab5 hasil5](https://user-images.githubusercontent.com/57024231/116341951-014f9a00-a80c-11eb-8300-85d214c3475f.png)
+
+lanjut menambahkan nilai dan text menu makanan pada javascript menggunakan checkbox untuk menghitung otomatis 
+![lab5 java6](https://user-images.githubusercontent.com/57024231/116341968-09a7d500-a80c-11eb-9ecc-28d0e400fabe.png)
+
+dan ini hasil akhirnya dengan memasukkan nilai belanjaan saya sengan total sebanyak Rp.5.500 
+
+![lab5 hasil6](https://user-images.githubusercontent.com/57024231/116341999-13c9d380-a80c-11eb-8af8-ba3160b6b064.png)
+
+sekian dan terima kasih
