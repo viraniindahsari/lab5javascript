@@ -7,3 +7,15 @@ lab5_javascript.html seperti dibawah ini. selanjutnya memasukkan kode html dan j
 
 dan ini hasil dari tampilan setelah direfresh digoogle croome.
 ![lab5 hasilpembuka12](https://user-images.githubusercontent.com/57024231/116339452-a5831200-a807-11eb-9080-7ccbbf757961.png)
+
+lanjut saya akan memasukkan kode alert untuk property window dan membuat kode yang digunakan untuk memasukkan nama pada tampilan browsernya
+![lab5 java1](https://user-images.githubusercontent.com/57024231/116340084-baac7080-a808-11eb-9756-158112c18076.png)
+
+dan hasilnya saya akan memasukkan nama virani indah sari terlebih dahulu untuk bisa masuk ke browser selanjutnya
+![lab5 hasil1](https://user-images.githubusercontent.com/57024231/116340141-dd3e8980-a808-11eb-9c42-b36d4a689988.png)
+
+lalu saya akan membuat operasi dasar aritmatika dengan menyeleksi kondisi if dan else agar bisa memasukkan nilai 
+![lab5 java 2](https://user-images.githubusercontent.com/57024231/116340288-2098f800-a809-11eb-8e43-d2e652f52435.png)
+
+berikut ini saya akan mengisi nilai dengan memasukkan angka sesuai keinginan kalau saya sendiri memasukkan angka 60
+![lab5 hasil2](https://user-images.githubusercontent.com/57024231/116340349-3dcdc680-a809-11eb-8efb-fe90785b8f4e.png)
