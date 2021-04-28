@@ -19,3 +19,16 @@ lalu saya akan membuat operasi dasar aritmatika dengan menyeleksi kondisi if dan
 
 berikut ini saya akan mengisi nilai dengan memasukkan angka sesuai keinginan kalau saya sendiri memasukkan angka 60
 ![lab5 hasil2](https://user-images.githubusercontent.com/57024231/116340349-3dcdc680-a809-11eb-8efb-fe90785b8f4e.png)
+
+lanjut saya akan menggunakan operator swictch untuk menyeleksi hasil kondisi
+![lab5 java3](https://user-images.githubusercontent.com/57024231/116341240-bed98d80-a80a-11eb-8c55-b20bd1ed825f.png)
+
+dan inilah hasil yang sudah tampil pada browser setelah saya refresh
+![lab5 hasil3](https://user-images.githubusercontent.com/57024231/116341288-d0bb3080-a80a-11eb-872c-c6809ad6fa49.png)
+
+selanjutnya saya akan membuat form pada javascript untuk diinput di browsernya 
+![lab5 java4](https://user-images.githubusercontent.com/57024231/116341311-da449880-a80a-11eb-86c3-a59008d4c73f.png)
+
+ini merupakan hasil dari tampilan membuat form
+![lab5 hasil4](https://user-images.githubusercontent.com/57024231/116341332-e6c8f100-a80a-11eb-820d-cfff37a1b455.png)
+
